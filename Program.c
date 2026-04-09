@@ -1,6 +1,6 @@
 #unclude<stdio.h>
 
-int main(){
+int main++(){
   printf("ZVERINEEEEE!!!");
   printf("ZVERINEEEEE!!!");
   printf("ZVERINEEEEE!!!");
